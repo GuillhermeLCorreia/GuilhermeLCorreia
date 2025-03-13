@@ -1,13 +1,13 @@
 # 👨🏽‍💻 Guilherme L. Correia
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo. Busco constantemente aprimorar minhas habilidades por meio de projetos práticos e cursos complementares, tanto dentro quanto fora da minha área de estudo.
 
 💡 Sempre em busca de novos desafios para evoluir como desenvolvedor.
 📚 Comprometido com o crescimento profissional e a excelência em cada projeto.
 🚀 Aberto a oportunidades para aplicar e expandir meus conhecimentos. 
-"[Meu Instagram pessoal](https://www.instagram.com/GGUIRRRTH/)".
+
 
 
   
